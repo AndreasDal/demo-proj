@@ -1,0 +1,32 @@
+{
+    "diffEditor.renderSideBySide": false,
+    "python.defaultInterpreterPath": "C:\\Users\\guapo\\anaconda3\\envs\\science\\python.exe",
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "workbench.editor.enablePreview": false,
+    "explorer.confirmDragAndDrop": false,
+    "jupyter.interactiveWindow.creationMode": "perFile",
+    "breadcrumbs.enabled": false,
+    "window.zoomLevel": 1,
+    "workbench.editor.empty.hint": "hidden",
+    "redhat.telemetry.enabled": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "editor.tabSize": 3,
+    "workbench.settings.applyToAllProfiles": [
+        "editor.tabSize"
+    ],
+    "cursor.cpp.disabledLanguages": [
+        "plaintext",
+        "markdown",
+        "scminput"
+    ],
+    "ruff.configuration": ""
+} 
